@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SphericalHarmonicAnalyze.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="inGravityModel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">egm96.gfc</Value>
+    </Setting>
+    <Setting Name="outGravityModel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">impruved model.gfc</Value>
+    </Setting>
+    <Setting Name="SGG_measures" Type="System.String" Scope="User">
+      <Value Profile="(Default)">input.SGG</Value>
+    </Setting>
+    <Setting Name="minCoLatitude" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="GridCellSize" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="modelMaxOrder" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="maxCoLatitude" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="longE" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">360</Value>
+    </Setting>
+    <Setting Name="longW" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="pointsCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
